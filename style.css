@@ -1,0 +1,35 @@
+*{
+    background-color: rgba(233, 249, 231, 0.73);
+   }
+   img{
+       width: 150px;
+       height: 150px;
+       border-radius:10% ;
+       display: block; /* To ensure the image is treated as a block-level element */
+       margin: 0 auto; /* Set the top and bottom margins to 0, and the left and right margins to auto */
+     } 
+   header h1{
+       text-align: center;
+   }
+   header p{
+       text-align: center;
+   }
+   header h2{
+       text-align: center;
+   
+   }
+   main h2{
+       text-align: center;
+   }
+   main p{
+       text-align: center;
+   }
+   main ul{
+       text-align: center;
+   }
+   footer {text-align:center;}
+  .octa{
+    display: inline;
+    height:150px ;
+    width: 250px;
+  }
